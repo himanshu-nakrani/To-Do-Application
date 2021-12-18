@@ -23,4 +23,3 @@ One Main class
 **totalTasks():** it is used to display the number of tasks in the list. It will show the number of elements available in the list using the size() method of arraylist class.
 
 **editTasks():** this method is used to edit any task specified by the user. It will use the set() method of arrayList and set elements at the index given by the user with the element entered by the user. 
-
