@@ -3,15 +3,15 @@
 **Project Title:**  To-Do Application
 
 In this project I created a command line app in java to store a list of tasks. 
-**
-**Implementation:****
+
+**Implementation:**
 Here I used ArrayList available in the java collection framework to store the task. I used arrayList because ArrayList maintains insertion order and its size can be dynamic. Here I used generic version of ArrayList, so it can store only one type of data i.e. String.  And then its  methods are used for various operations. 
 
 
-**Class: **
+**Class:**
 One Main class
 
-**Methods: **
+**Methods:**
 menu(): this method is used to show the list of available options to the user and take an input for further processing. Also , Try & catch block is used for exception handling if a user enters anything which is not an integer. 
 showList(): this method is used to show the list of tasks to the user. List is printed by iterating over it and printing every string element available at that index position.
 addItem(): this method is used to add a task. add() method of arraylist will add elements at the end of the list.
