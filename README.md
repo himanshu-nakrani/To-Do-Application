@@ -12,7 +12,7 @@ One Main class
 
 ### **Methods:**
 
-**menu():** this method is used to show the list of available options to the user and take an input for further processing. Also , Try & catch block is used for exception handling if a user enters anything which is not an integer. 
+**menu():* this method is used to show the list of available options to the user and take an input for further processing. Also , Try & catch block is used for exception handling if a user enters anything which is not an integer. 
 
 **showList():** this method is used to show the list of tasks to the user. List is printed by iterating over it and printing every string element available at that index position.
 
